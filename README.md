@@ -31,14 +31,22 @@ TwitterGPT aims to bring the power of AI to social media, starting with Twitter.
 ## Introduction
 
 TwitterGPT is a mobile app that utilizes OpenAI's GPT-4 to simplify the Twitter content creation process, making it accessible to a wider audience. The AI-generated content is unique and reflects the personal preferences and styles of the user, resulting in personalized Twitter threads.
+## Twitter developer account 
+1. Go to twitter developer acacount and sign in then get all you're requried token keys and access key then add it to the created file 
 
+2. then add callback url and all the required api keys 
 
+## Appwrite 
+
+1. This is same like firebase and supabase you can you this for auth and all the same feature like firebase and supabase
+
+## Open Ai Keys 
+1. You can get the api keys for Open ai Platform to use this application
 ## Usage
 
 1. Clone the repository from GitHub:
 
-```bash
-git clone https://github.com/your-github-username/twittergpt.git
+
 ```
 
 2. Create a .env file under the root directory and set up the following environment variables:
@@ -102,17 +110,7 @@ docs: Everything related to documentation
 refactor: Regular code refactoring and maintenance
 ```
 
-To know more extensively about how to contribute to this project, read our [Contribution Guide](https://github.com/yatendra2001/TwitterGPT/blob/master/CONTRIBUTING.md).
 
-## Community
-
-You can chat with the community [here](https://discord.gg/7udyaThamZ). Feel free to ask questions and share your ideas about the project.
-
-Remember, the best way to gain contributions is by being respectful and welcoming to new contributors.
-
-## License
-
-The project is released under the [MIT License](http://www.opensource.org/licenses/mit-license.php). The license can be found [here](LICENSE).
 
 ## Flutter
 
@@ -122,18 +120,3 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ### If you like it, make sure to star our repo :)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/yatendra2001/twitter_gpt.svg?style=for-the-badge
-[contributors-url]: https://github.com/yatendra2001/twitter_gpt/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/yatendra2001/twitter_gpt.svg?style=for-the-badge
-[forks-url]: https://github.com/yatendra2001/twitter_gpt/network/members
-[stars-shield]: https://img.shields.io/github/stars/yatendra2001/twitter_gpt.svg?style=for-the-badge
-[stars-url]: https://github.com/yatendra2001/twitter_gpt/stargazers
-[issues-shield]: https://img.shields.io/github/issues/yatendra2001/twitter_gpt.svg?style=for-the-badge
-[issues-url]: https://github.com/yatendra2001/twitter_gpt/issues
-[license-shield]: https://img.shields.io/github/license/yatendra2001/twitter_gpt.svg?style=for-the-badge
-[license-url]: https://github.com/yatendra2001/twitter_gpt/blob/master/LICENSE
-# TwitterGPT
