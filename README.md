@@ -17,8 +17,6 @@
 
 TwitterGPT aims to bring the power of AI to social media, starting with Twitter. It allows users to automate their Twitter content generation, personalizing tweets and threads based on their unique style and preferred topics.
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/twittergpt-7d0dc.appspot.com/o/assets%2Ffinal%20new%20new%20new%20(2).png?alt=media&token=6acc5cbb-fbf3-4b8d-a293-e53dea0a525d)
-
 
 ## Introduction
 
